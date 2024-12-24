@@ -19,4 +19,5 @@ Once the plugin is installed and activated, you can start adding custom ACF fiel
 The custom ACF fields will be saved and displayed alongside the standard coupon information.
 
 ## Support:
-If you encounter any issues or have questions about the plugin, please reach out to the plugin author, Christopher Kiunye Mucheke, or submit an issue on the plugin's support forum.
+If you encounter any issues or have questions about the plugin, please reach out to the plugin author, or submit an issue
+on the GitHub repository.
