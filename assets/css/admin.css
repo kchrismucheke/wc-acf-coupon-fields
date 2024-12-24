@@ -1,0 +1,19 @@
+.wcacf-coupon-message {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.wcacf-coupon-message img {
+    max-width: 50px;
+    height: auto;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.wcacf-coupon-message p {
+    display: inline-block;
+    margin: 0;
+    vertical-align: middle;
+}
