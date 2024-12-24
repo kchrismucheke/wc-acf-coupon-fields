@@ -1,5 +1,7 @@
 # WooCommerce ACF Coupon Fields
 
+This is a hobby project don't use it on production
+
 ## Overview:
 The WooCommerce ACF Coupon Fields plugin allows you to add custom Advanced Custom Fields (ACF) to WooCommerce coupons. This provides more flexibility and customization options for your coupon management.
 
